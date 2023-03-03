@@ -22,7 +22,7 @@
 #### 🚓 AlzhecorpiaV Roleplay | Un serveur GTA V (FiveM, ESX).
 ![STATUS][s-wip]
 
-#### 🧰 [Bidouillage](https://github.com/thealzhe/Bidouillage)
+#### 🧰 [Bidouillage]https://github.com/thealzhe/thealzhe/tree/main/scripts)
 ![STATUS][s-wip]
 
 ### 🌐 Mes sites web
@@ -32,9 +32,3 @@ Mes sites Internet sont majoritairement open-source... 👀
 
 #### 🤖 [burgerking.gq](https://github.com/thealzhe/burgerking.gq)
 ![STATUS][s-released]
-
-### 🌐 Mes sites web abandonnés
-#### [corp.alzhe.me](https://github.com/thealzhe/corp.alzhe.me)
-#### [thealzhe.ga](https://github.com/thealzhe/thealzhe.ga)
-#### [alzhe.tv](https://github.com/thealzhe/alzhe.tv)
-#### [alzhecorporation.fr](https://github.com/thealzhe/alzhecorporation.fr)
