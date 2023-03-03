@@ -32,3 +32,7 @@ Mes sites Internet sont majoritairement open-source... 👀
 
 #### 🤖 [burgerking.gq](https://github.com/thealzhe/burgerking.gq)
 ![STATUS][s-released]
+
+# 🚨 For Microsoft, Minecraft, Mojang, NameMC or any Minecraft service using Minecraft APIs
+[This Minecraft Account (678b2328-45c8-4925-a885-387c0a817809 - tiredhigh) was stolen the 07/10/2021 at	~18:29:02.](https://fr.namemc.com/profile/Nournicat.3).
+I also know my PC was compromised by Trojan at this epoch, I loss this account and I want to get it back. Please help me!
