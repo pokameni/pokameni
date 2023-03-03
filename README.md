@@ -22,7 +22,7 @@
 #### 🚓 AlzhecorpiaV Roleplay | Un serveur GTA V (FiveM, ESX).
 ![STATUS][s-wip]
 
-#### 🧰 [Bidouillage]https://github.com/thealzhe/thealzhe/tree/main/scripts)
+#### 🧰 [Scripts | Garry's Mod, Minecraft, FiveM, Bash...](https://github.com/thealzhe/thealzhe/tree/main/scripts)
 ![STATUS][s-wip]
 
 ### 🌐 Mes sites web
