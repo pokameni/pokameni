@@ -38,14 +38,23 @@ Mes sites Internet sont majoritairement open-source... 👀
 
 ### ☠️ Projets abandonnés, détruits, supprimés, ou échecs personnels.
 ⚰️ alzhe.tv | Site linktree, autrefois également site principal de nombreux sites web.
+
 ⚰️ oldschoolfactions.tk | Projet de serveur Minecraft (PvP-Factions) abandonné.
+
 ⚰️ Palais du WTF | Communauté Amino abandonnée / détruite - sur l'application Amino, anciennement par Narvii.
+
 ⚰️ Sundera | Communauté Amino - échec personnel.
+
 ⚰️ Alzhia.eu | Serveur Garry's Mod puis FiveM, rôleplay sérieux et libre d'accès - échec personnel.
+
 ⚰️ OldSchoolNetwork | Projet de network Minecraft à l'ancienne, comportant des modes de jeux anciens dont un faction, un skyblock, un survie - échec personnel.
+
 ⚰️ mc.alzhia.eu | Serveur Minecraft survie, projet arrêté volontairement après quelques mois.
+
 ⚰️ guilded.fr | Site web de recensement de communautés du logiciel Guilded ([guilded.gg](https://guilded.gg/)) - j'ai laissé la main à un autre particulier.
+
 ⚰️ [guilded.gg/alzhe](https://www.guilded.gg/i/kdD06zvk) | Cette application a du potentiel mais très peu de public français, résultat : échec total.
+
 😔 et bien d'autres...
 
 ### 🚨 For Microsoft, Minecraft, Mojang, NameMC or any Minecraft service using Minecraft APIs
