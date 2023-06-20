@@ -1,5 +1,5 @@
 <a href="https://discord.com/users/1071416250837774336"><img align="left" src="https://lanyard-profile-readme.vercel.app/api/1071416250837774336"/></a>
-<a href="#">![](https://komarev.com/ghpvc/?username=thealzhe&label=VUES+DU+PROFIL&color=grey)</a> <a href="https://discord.gg/alzhe">![Discord.gg/alzhe](https://img.shields.io/discord/1082401892677722282?label=DISCORD.GG/ALZHE&color=7289DA)</a> <a href="https://twitch.tv/alzhetv">![Twitch](https://img.shields.io/twitch/status/alzhetv?label=TWITCH.TV/ALZHETV&color=6441a5)</a>
+<a href="#">![](https://komarev.com/ghpvc/?username=alzhetv&label=VUES+DU+PROFIL&color=grey)</a> <a href="https://discord.gg/alzhe">![Discord.gg/alzhe](https://img.shields.io/discord/1082401892677722282?label=DISCORD.GG/ALZHE&color=7289DA)</a> <a href="https://twitch.tv/alzhetv">![Twitch](https://img.shields.io/twitch/status/alzhetv?label=TWITCH.TV/ALZHETV&color=6441a5)</a>
 
 ## 📋 Profil
 👋🏼 Salut l'ami, moi c'est Alzhe ! J'ai 20 ans, je propose du contenu sur Twitch, et en extra, je bidouille de nombreuses choses sur Minecraft, Garry's Mod, FiveM et même un peu en web front-end/back-end. Tout est listé ici.
@@ -11,21 +11,21 @@
 #### 🏆 Projets principaux
 <a href="#">![][s-wip]</a> 🌱 [Alzhecorpia.fr](https://alzhecorpia.fr/) | Alzhecorpia.fr est un ensemble de serveurs de jeux, voulant rassembler une belle communauté.
 
-<a href="#">![][s-wip]</a> 🧰 [Scripts | Garry's Mod, Minecraft, FiveM, Bash...](https://github.com/thealzhe/thealzhe/tree/main/scripts)
+<a href="#">![][s-wip]</a> 🧰 [Scripts | Garry's Mod, Minecraft, FiveM, Bash...](https://github.com/alzhetv/alzhetv/tree/main/scripts)
 
 #### 🌐 Mes sites web
 *Mes sites Internet sont majoritairement open-source... 👀*
 
-<a href="#">![][s-working]</a> 🧪 [www.alzhe.me](https://github.com/thealzhe/www.alzhe.me)
+<a href="#">![][s-working]</a> 🧪 [www.alzhe.me](https://github.com/alzhetv/www.alzhe.me)
 
-<a href="#">![][s-wip]</a> 🧪 [www.alzhe.host](https://github.com/thealzhe/alzhe.host)
+<a href="#">![][s-wip]</a> 🧪 [www.alzhe.host](https://github.com/alzhetv/alzhe.host)
 
-<a href="#">![][s-released]</a> 🤖 [burgerking.gq](https://github.com/thealzhe/burgerking.gq) | Aucun développement futur n'est proposé.
+<a href="#">![][s-released]</a> 🤖 [burgerking.gq](https://github.com/alzhetv/burgerking.gq) | Aucun développement futur n'est proposé.
 
 <a href="#">![][s-wait]</a> ⚰️ [guilded.gg/alzhe](https://www.guilded.gg/i/kdD06zvk) | Cette application a du potentiel mais très peu de public français, résultat : échec total.
 
 #### ☠️ Projets abandonnés, détruits, supprimés, ou échecs personnels.
-<a href="#">![][s-discontinued]</a> ⚖️ [pro.alzhe.me](https://github.com/thealzhe/pro.alzhe.me) | www.alzhe.me remplace désormais ce site.
+<a href="#">![][s-discontinued]</a> ⚖️ [pro.alzhe.me](https://github.com/alzhetv/pro.alzhe.me) | www.alzhe.me remplace désormais ce site.
 
 <a href="#">![][s-discontinued]</a> ⚰️ alzhe.tv | Site linktree, autrefois également site principal de nombreux sites web.
 
@@ -57,6 +57,6 @@ I also know my PC was compromised by Trojan at this epoch, I loss this account a
 [s-wait]: https://img.shields.io/badge/STATUS-WAITING-yellow
 [s-discontinued]: https://img.shields.io/badge/STATUS-DISCONTINUED-red
 
-<a href="#"><img src="https://github-profile-trophy.vercel.app/?username=thealzhe&no-frame=true&&no-bg=true" alt="thealzhe"/></a>
+<a href="#"><img src="https://github-profile-trophy.vercel.app/?username=alzhetv&no-frame=true&&no-bg=true" alt="alzhetv"/></a>
 
 <a href="#">![](/github-metrics.svg)</a>
