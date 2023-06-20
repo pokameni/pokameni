@@ -20,7 +20,7 @@
 
 <a href="#">![][s-wip]</a> 🧪 [www.alzhe.host](https://github.com/alzhetv/alzhe.host)
 
-<a href="#">![][s-released]</a> 🤖 [burgerking.gq](https://github.com/alzhetv/burgerking.gq) | Aucun développement futur n'est proposé.
+<a href="#">![][s-released]</a> 🤖 [burger-king.gq](https://github.com/alzhetv/burger-king.gq) | Aucun développement futur n'est proposé.
 
 <a href="#">![][s-wait]</a> ⚰️ [guilded.gg/alzhe](https://www.guilded.gg/i/kdD06zvk) | Cette application a du potentiel mais très peu de public français, résultat : échec total.
 
