@@ -1,4 +1,4 @@
-<a href="https://discord.com/users/258203400053719040"><img align="left" src="https://lanyard-profile-readme.vercel.app/api/1071416250837774336"/></a>
+<a href="https://discord.com/users/258203400053719040"><img align="left" src="https://lanyard.cnrad.dev/api/258203400053719040?theme=dark&animated=true&idleMessage=Actuellement%20en%20train%20de%20ne%20rien%20faire"/></a>
 <a style="cursor: default;">![](https://komarev.com/ghpvc/?username=alzhetv&label=VUES+DU+PROFIL&color=grey)</a> <a href="https://discord.gg/alzhe">![Discord.gg/alzhe](https://img.shields.io/discord/1082401892677722282?label=DISCORD.GG/ALZHE&color=7289DA)</a> <a href="https://twitch.tv/alzhetv">![Twitch](https://img.shields.io/twitch/status/alzhetv?label=TWITCH.TV/ALZHETV&color=6441a5)</a>
 
 ## 📋 Profil
